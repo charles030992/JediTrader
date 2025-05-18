@@ -1,48 +1,32 @@
-<h1 align="center">⚔️ Hola, soy Carlos 🌌</h1>
-<h3 align="center">Trader del mercado tradicional y futuro desarrollador blockchain 🔮</h3>
+<h1 align="center">🌌 <span style="color:#32CD32">Carlos</span> | Trader & <span style="color:#32CD32">Jedi Developer</span> ⚔️</h1>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdoNDB4N2NsMHBtN3NtajE4eGpqcDRhb2VzYmM0NTVmMWNtZ3l1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ld77zD3fF3Run8olIt/giphy.gif)" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yNnF5d2R4Y2J2dWlqY2V4ZzR6eHd3b2N6dXQ0b2VtY3BvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhOpu0NwenH3O/giphy.gif" width="400" style="border-radius:15px;border:2px solid #32CD32">
 </div>
 
-<style>
-  .jedi-container {
-    background: #0d1117;
-    padding: 2rem;
-    border-radius: 15px;
-    border: 2px solid #32CD32;
-    box-shadow: 0 0 25px rgba(50, 205, 50, 0.3);
-    max-width: 600px;
-    margin: 2rem auto;
-  }
-  
-  .force-text {
-    color: #c8d6e5;
-    text-shadow: 0 0 10px #32CD32;
-  }
-</style>
+<div style="background:#0d1117;padding:2rem;border-radius:15px;border:2px solid #32CD32;box-shadow:0 0 25px rgba(50,205,50,0.3);max-width:600px;margin:2rem auto;color:#c8d6e5">
 
-<div class="jedi-container">
-  <div align="center" class="force-text">
-  
-  ```javascript
-  const jediTrader = {
-    weapon: "En un mercado alcista o bajista,\
- siempre hay ganancias que cosechar.\
- El miedo al lado oscuro lleva,\
- a vender cuando debes comprar.",
-    speciality: "Anilisis Fundamental y técnico",
-    mission: "NO PIERDAS DINERO",
-    mantra: () => "¡La paciencia paga!"
-  };
-
-
-
-
-
-/* Habilidades Jedi */
-.force-powers {
-  blockchain: mastery;
-  technical-analysis: 9000;
-  risk-management: !important;
+```javascript
+const jediTrader = {
+  armaPrincipal: "Análisis Técnico + Fundamental",
+  especialidad: "Mercados Tradicionales & Crypto",
+  filosofía: `
+    "En un mercado alcista o bajista,
+    siempre hay oportunidades que cosechar.
+    El miedo al lado oscuro lleva,
+    a vender cuando debes comprar."
+  `,
+  mantra: () => "¡La disciplina siempre paga!"
+};
++ #1 Nunca pierdas capital (risk management primero)
++ #2 La paciencia es tu mejor aliada
+! #3 El miedo y la codicia son el lado oscuro
+/* Nivel de habilidades */
+blockchain {
+  conocimiento: "En crecimiento";
+  objetivo: "Smart Contracts";
+}
+trading {
+  análisis-técnico: ★★★★☆;
+  gestión-riesgo: ★★★★★;
 }
